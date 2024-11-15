@@ -1,2 +1,2 @@
-# generatecat
+# generatecatz
 generates cat pictures by simply clicking your mouse. 
